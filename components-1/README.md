@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+## Preview
+
+URL: https://mellifluous-paprenjak-5c4d53.netlify.app/
